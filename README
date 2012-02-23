@@ -1,0 +1,17 @@
+# Life-clj
+
+A simple clojure implemenation of Conway's Game of Life.
+
+## Usage
+
+a. Use the jar file: java -jar Life-clj-0.1.0-ALPHA-standalone.jar
+
+b. Use leiningen and the source code:
+   1. lein deps
+   2. lein trampoline run -m Life-clj.core 5000
+
+## License
+
+Copyright (C) 2012 Li Yao
+
+Distributed under the Eclipse Public License, the same as Clojure.
